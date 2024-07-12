@@ -1,0 +1,28 @@
+/* ----- Font ------ */
+@import url("https://fonts.googleapis.com/css2?family=Sahitya:wght@400;700&display=swap");
+
+.sahitya-regular {
+  font-family: "Sahitya", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sahitya-bold {
+  font-family: "Sahitya", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+/* ------- Defining CSS Variables */
+:root {
+  --fleapo-black: #1e90ff;
+  --fleapo-yello: #ffffff;
+  --fleapo-lemon: #ffffff;
+  --fleapo-grandis: #ffffff;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
